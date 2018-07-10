@@ -1,5 +1,21 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+# title: Cayman theme
+# description: Cayman is a clean, responsive theme for GitHub Pages.
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-cayman
+
 theme: jekyll-theme-cayman
+
+title: Flagship Kubernetes
+description: The Helm-Based, Self-Hosted, and Cloud-Agnostic Kubernetes Deployment Project
+# github:
+#   repository_url: https://github.com/v1k0d3n/cayman
+url: "https://pkoritala.github.io/flagship/"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      layout: "default"
